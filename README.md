@@ -1,0 +1,4 @@
+- 👋 Hi, I’m  Thomas aka @venticc
+- 👀 I’m interested in javascript and gonna be specialized in blockchain after
+- 🌱 I’m currently learning typescript/blockchain
+- 📫 How to reach me tcare.detailing@gmail.com
